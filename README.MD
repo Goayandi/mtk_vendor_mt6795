@@ -17,10 +17,7 @@ this source is only for the camera hal.... some things are still missing may be 
 according to me following sources are still missing for camera hal of leeco le1s x500 ,x507 ,x502, x509
 
 ****
-CUSTOM_HAL_LENS : bu6429af >>>>>> ( ***found)
-                  lc898217af 
+CUSTOM_HAL_LENS : lc898217af 
                   
 CUSTOM_HAL_IMGSENSOR :  s5k3l9_mipi_raw 
                         s5k5e9yx_mipi_raw
-                        s5k3l8_mipi_raw  >>>>>> ( ***found)
-                        s5k5e8yx_mipi_raw >>>>>> ( ***found)
